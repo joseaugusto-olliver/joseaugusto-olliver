@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=425459&height=180&section=header&text=José+Augusto+Soares&fontSize=27&fontColor=00CED1&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=425459&height=180&section=header&text=José+Augusto+Oliveira&fontSize=27&fontColor=00CED1&animation=twinkling&fontAlignY=35"/>
 
-# José Augusto Soares
+# José Augusto Oliveira
 * Encarregado e Analista de Operações Logísticas.
 * Cursando Engeharia de Software na [UNOPAR - RJ](https://www.unopar.com.br/)
 * Analista de Dados
