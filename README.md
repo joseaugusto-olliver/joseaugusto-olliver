@@ -2,7 +2,7 @@
 
 # José Augusto Oliveira
 * Encarregado e Analista de Operações Logísticas.
-* Cursando Engeharia de Software na [UNOPAR - RJ](https://www.unopar.com.br/)
+* Cursando Engenharia de Software na [UNOPAR - RJ](https://www.unopar.com.br/)
 * Analista de Dados
 
 ## Conecte-se comigo
