@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=425459&height=180&section=header&text=José+Augusto+Oliveira&fontSize=27&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
 
-# José Augusto Oliveira
+# José Augusto Soares
 * Encarregado e Analista de Operações Logísticas.
 * Engenharia de Software 
 
